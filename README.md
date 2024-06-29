@@ -33,7 +33,7 @@ This project is a starting point for a Flutter application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/workout-fitness-app.git
+   git clone https://github.com/MrAtul777/Diet-Recommendation-System
    cd workout-fitness-app
    ```
 
